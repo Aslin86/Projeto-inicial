@@ -32,15 +32,4 @@ gerar relatórios das transações realizadas.
 # Adicionar o README ao stage
 git add README.md
 
-# Realizar o commit do README
-git commit -m "docs: adiciona README com informações do projeto"
-
-# Enviar para o repositório remoto
-git push origin main
-
-# Saída esperada:
-# [main b2c3d4e] docs: adiciona README com informações do projeto
-# 1 file changed, 42 insertions(+)
-# To https://github.com/Aslin86/Projeto-inicial.git 
-#    a1b2c3d..b2c3d4e  main -> main
 
