@@ -29,7 +29,6 @@ gerar relatórios das transações realizadas.
 2. Importe o banco de dados: execute o script `banco.sql`
 3. Configure a conexão em `src/config/Conexao.java`
 4. Execute a classe `Main.java`
-# Adicionar o README ao stage
-git add README.md
+
 
 
