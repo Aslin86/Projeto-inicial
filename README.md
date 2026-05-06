@@ -22,10 +22,4 @@ gerar relatórios das transações realizadas.
 - **JDBC** — conexão entre Java e MySQL
 - **Git / GitHub** — controle de versão
 
-## Como Executar
 
-1. Clone o repositório:
-   git clone https://github.com/seu-usuario/casa-leiloes.git
-2. Importe o banco de dados: execute o script `banco.sql`
-3. Configure a conexão em `src/config/Conexao.java`
-4. Execute a classe `Main.java`
