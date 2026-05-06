@@ -25,7 +25,7 @@ gerar relatórios das transações realizadas.
 ## Como Executar
 
 1. Clone o repositório:
-   git clone[ https://github.com/seu-usuario/casa-leiloes.git](https://github.com/Aslin86/Projeto-inicial.git )
+   git clonehttps://github.com/Aslin86/Projeto-inicial.git 
 2. Importe o banco de dados: execute o script `banco.sql`
 3. Configure a conexão em `src/config/Conexao.java`
 4. Execute a classe `Main.java`
@@ -41,6 +41,6 @@ git push origin main
 # Saída esperada:
 # [main b2c3d4e] docs: adiciona README com informações do projeto
 # 1 file changed, 42 insertions(+)
-# To [https://github.com/seu-usuario/casa-leiloes.git](https://github.com/Aslin86/Projeto-inicial.git )
+# To https://github.com/Aslin86/Projeto-inicial.git 
 #    a1b2c3d..b2c3d4e  main -> main
 
